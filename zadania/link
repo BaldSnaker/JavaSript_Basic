@@ -1,0 +1,32 @@
+https://technikprogramista.pl/kurs/javascript/lekcja/javascript-petle-zadania/
+
+link do zadań JavaScript Pętle
+
+Wyświetli na ekranie 10 kolejnych liczb całkowitych począwszy od 1.
+
+Wyświetli na ekranie 10 kolejnych liczb całkowitych począwszy od 10 w kolejności malejącej.
+
+Obliczy i wyświetli na ekranie sumę kolejnych 10 liczb całkowitych począwszy od 1.
+
+Wyświetli na ekranie 10 kolejnych parzystych liczb całkowitych począwszy od 2.
+
+Pracownik przez X miesięcy odkłada co miesiąc Y zł. W każdym miesiącu z całej odłożonej na tą chwilę kwoty uzyskuje 8% odsetek.
+Jaką kwotę zgromadzi pracownik ?
+
+Obliczy sumę elementów ciągu arytmetycznego, składającego się ze 100 elementów, z których każdy kolejny jest większy od poprzedniego o 10. Pierwszy element wynosi 5.
+Obliczy ilość cegieł w piramidzie o podstawie 10 x 10 cegieł.
+
+Obliczy ilość cegieł w ścianie o podstawie X cegieł, wysokości Y rzędów cegieł, gdzie każdy kolejny stawiany rząd cegieł jest o Z cegieł krótszy od poprzedniego (niższego).
+Oblicza wagę ściany z 8. podpunktu, przy założeniu, że jedna cegła waży K kilogramów.
+
+Symulujący działanie prostego kalkulatora.
+
+Wyświetli na ekranie ciąg arytmetyczny składający się z N elementów, gdzie pierwszy element ma wartość X, a różnica pomiędzy kolejnymi elementami ciągu wynosi Y.
+
+Oblicza sumę dwóch liczb podanych przez użytkownika. Algorytm ma działać tak długo, aż suma podanych liczb będzie wynosiła 0.
+
+Algorytm oblicza silnię wprowadzonej przez użytkownika liczby.
+
+Wypisuje na ekran ciąg n liczb, z których każda kolejna jest kwadratem poprzedniej liczby z ciągu. Wartość pierwszej liczby podaje użytkownik.
+
+Oblicza sumę oraz średnią z 10 losowych liczb z przedziału <50,100>.
